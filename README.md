@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MrDzhofik
 - 👀 I’m interested in football and programming
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate
 - 📫 How to reach me Vk: https://vk.com/mrdzhofik
 
