@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @MrDzhofik
 - 👀 I’m interested in football and programming
-- 🌱 I’m currently learning Ruby
-- 💞️ I’m looking to collaborate
+- 🌱 I’m currently learning Assembler
 - 📫 How to reach me Vk: https://vk.com/mrdzhofik
 
 <!---
