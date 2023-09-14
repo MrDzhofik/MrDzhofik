@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MrDzhofik
 - 👀 I’m interested in football and programming
-- 🌱 I’m currently learning Assembler
+- 🌱 I’m currently learning Django
 - 📫 How to reach me Vk: https://vk.com/mrdzhofik
 
 <!---
