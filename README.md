@@ -6,7 +6,7 @@
 
 <div style="display: flex; align-items: center; justify-content: center;">
     <div>
-        <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=rusy13&show_icons=true&theme=dark&title_color=1fddea&text_color=ffffff&locale=en&layout=compact" alt="rusy13" /></p>
+        <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=MrDzhofik&show_icons=true&theme=dark&title_color=1fddea&text_color=ffffff&locale=en&layout=compact" alt="Messi and Ronaldo" /></p>
     </div>
 </div>
 
