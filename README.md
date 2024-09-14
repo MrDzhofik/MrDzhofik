@@ -6,9 +6,16 @@
 
 <div style="display: flex; align-items: center; justify-content: center;">
     <div>
-        <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=MrDzhofik&show_icons=true&theme=dark&title_color=1fddea&text_color=ffffff&locale=en&layout=compact" alt="Messi and Ronaldo" /></p>
     </div>
 </div>
+
+![MrDzhofik's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrDzhofik&show_icons=true&theme=merko)
+
+![MrDzhofik's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MrDzhofik&hide=Ruby,CSS,HTML,Makefile,Pascal)
+![MrDzhofik's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MrDzhofik&layout=compact)
+
+
+
 
 <!---
 MrDzhofik/MrDzhofik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
