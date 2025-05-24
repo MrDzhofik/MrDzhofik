@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MrDzhofik
 - 👀 I’m interested in football and programming
-- 🌱 I’m currently learning Golang
+- 🌱 I’m currently learning Python and Golang
 - 📫 How to reach me Telegram:  https://t.me/MrDzhofik
 
 <p align="center">
